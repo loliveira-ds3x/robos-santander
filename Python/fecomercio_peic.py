@@ -4,7 +4,8 @@ from Packages.Main import crawlers_main
 crawler_name = 'fecomercio_peic'
 start_url = "https://www.fecomercio.com.br/pesquisas/indice/peic"
 html_path = 'div.boxDownload a[href]'
-file_type = 'simple_url'
+get_type = 'simple_url'
+etl_type = 'excel_to_csv'
 
 input_file = crawler_name + '.xls'
 input_file_tab1 = 'Série Histórica'
@@ -17,4 +18,4 @@ column_names = [ 'data','familias_endividadas_abs','familias_contas_em_atraso_ab
 output_file = crawler_name + '_hist.csv'
 
 ##main
-crawlers_main.main(file_type, start_url, html_path, input_file,input_file_tab1,index_columns, column_names,output_file)
+crawlers_main.main(get_type=get_type, etl_type=etl_type, start_url=start_url, html_path=html_path, input_file=input_file,input_file_tab1=input_file_tab1,index_columns=index_columns, column_names=column_names,output_file=output_file,crawler_name=crawler_name)
