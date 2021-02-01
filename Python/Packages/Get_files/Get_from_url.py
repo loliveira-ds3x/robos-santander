@@ -31,7 +31,7 @@ class Simple_url_method():
         else:  
           #logging.info('Download executado com sucesso')
           #abre o excel
-          f = open('/home/ds3x/robos-santander/Outputs/'+self.input_file, 'wb').write(s.content)
+          f = open('/home/ds3x/robos-santander/Outputs/'+self.input_file, mode='wb',encoding='utf-8').write(s.content)
           return f
 
 class Multiple_url_method():

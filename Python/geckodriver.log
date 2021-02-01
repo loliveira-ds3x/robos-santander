@@ -1,0 +1,16 @@
+1612153718387	geckodriver	INFO	Listening on 127.0.0.1:47353
+1612153719379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0nbFjP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612153736722	Marionette	INFO	Listening on port 36075
+1612153736999	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612153741305	Marionette	INFO	Stopped listening on port 36075
+1612153911898	geckodriver	INFO	Listening on 127.0.0.1:54773
+1612153912914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecPJAi9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612153938364	Marionette	INFO	Listening on port 43177
+1612153938536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612153942567	Marionette	INFO	Stopped listening on port 43177
