@@ -1,0 +1,233 @@
+1612115623557	geckodriver	INFO	Listening on 127.0.0.1:38051
+1612115623602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex0jwUP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612115628572	Marionette	INFO	Listening on port 42831
+1612115628778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612115629415	Marionette	INFO	Stopped listening on port 42831
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1612117090007	geckodriver	INFO	Listening on 127.0.0.1:54581
+1612117090031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePa0Uv2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612117096992	Marionette	INFO	Listening on port 38053
+1612117097162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612117098307	Marionette	INFO	Stopped listening on port 38053
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1612117188406	geckodriver	INFO	Listening on 127.0.0.1:57609
+1612117189425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileverp9s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612117193597	Marionette	INFO	Listening on port 33719
+1612117193694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612117394666	geckodriver	INFO	Listening on 127.0.0.1:58965
+1612117395774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ3RJPa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612117399772	Marionette	INFO	Listening on port 45129
+1612117399877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612117438680	geckodriver	INFO	Listening on 127.0.0.1:50767
+1612117439701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP2YNFb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612117444217	Marionette	INFO	Listening on port 43825
+1612117444310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612117472509	geckodriver	INFO	Listening on 127.0.0.1:51233
+1612117473471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuajvvV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612117484301	Marionette	INFO	Listening on port 36733
+1612117484665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612118985600	geckodriver	INFO	Listening on 127.0.0.1:42847
+1612118986532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEo6OOg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612119006381	Marionette	INFO	Listening on port 34875
+1612119006919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612119049739	geckodriver	INFO	Listening on 127.0.0.1:57091
+1612119050707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA0G91y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612119080266	Marionette	INFO	Listening on port 33597
+1612119080882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612119315899	geckodriver	INFO	Listening on 127.0.0.1:39843
+1612119316820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP1Govh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612119358334	Marionette	INFO	Listening on port 45057
+1612119358955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612119420944	geckodriver	INFO	Listening on 127.0.0.1:48465
+1612119421919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevjEErY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612119447553	Marionette	INFO	Listening on port 33349
+1612119447794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612119536921	geckodriver	INFO	Listening on 127.0.0.1:35853
+1612119537688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqvrM5a"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612119589480	Marionette	INFO	Listening on port 46169
+1612119589866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612119595140	Marionette	INFO	Stopped listening on port 46169
+1612119893554	geckodriver	INFO	Listening on 127.0.0.1:37417
+1612119894317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDiL1hc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612119912830	Marionette	INFO	Listening on port 42291
+1612119912954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612119966880	geckodriver	INFO	Listening on 127.0.0.1:33487
+1612119967808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJlrTq0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612119987699	Marionette	INFO	Listening on port 45579
+1612119988461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612119990808	Marionette	INFO	Stopped listening on port 45579
+1612120221355	geckodriver	INFO	Listening on 127.0.0.1:48309
+1612120221443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletp1Lhu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612120245289	Marionette	INFO	Listening on port 41349
+1612120246209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612120324609	geckodriver	INFO	Listening on 127.0.0.1:40553
+1612120325664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFtwab7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612120379950	Marionette	INFO	Listening on port 34431
+1612120382058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612122357835	geckodriver	INFO	Listening on 127.0.0.1:47371
+1612122358736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaUu9NF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1612127512242	geckodriver	INFO	Listening on 127.0.0.1:52473
+1612127513169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1IlqeK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612127517483	Marionette	INFO	Listening on port 37087
+1612127517549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612127519267	Marionette	INFO	Stopped listening on port 37087
+1612128067511	geckodriver	INFO	Listening on 127.0.0.1:46017
+1612128068521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyViwFW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612128073151	Marionette	INFO	Listening on port 38323
+1612128073229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612128075897	Marionette	INFO	Stopped listening on port 38323
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612128308444	geckodriver	INFO	Listening on 127.0.0.1:56035
+1612128309453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletNEQCA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612128313057	Marionette	INFO	Listening on port 35627
+1612128313126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612129301837	geckodriver	INFO	Listening on 127.0.0.1:43251
+1612129302843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXrEtOh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612129309151	Marionette	INFO	Listening on port 34907
+1612129309295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+Gdk-Message: 18:43:12.724: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.
+
+Exiting due to channel error.
+Exiting due to channel error.
+1612129416897	geckodriver	INFO	Listening on 127.0.0.1:58337
+1612129417906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegwHZWf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612129424231	Marionette	INFO	Listening on port 36275
+1612129424389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+Gdk-Message: 18:46:09.166: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.
+
+Gdk-Message: 18:46:09.170: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :2.
+
+Exiting due to channel error.
+1612129648769	geckodriver	INFO	Listening on 127.0.0.1:50135
+1612129649792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV7mkHN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612129652942	Marionette	INFO	Listening on port 45719
+1612129653079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612129702412	geckodriver	INFO	Listening on 127.0.0.1:33497
+1612129703420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecbAhiT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612129706619	Marionette	INFO	Listening on port 44341
+1612129706665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1612129880908	geckodriver	INFO	Listening on 127.0.0.1:47583
+1612129881914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevgXbVM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612129885024	Marionette	INFO	Listening on port 34759
+1612129885080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612130241180	geckodriver	INFO	Listening on 127.0.0.1:36719
+1612130241221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZdbEve"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612130244890	Marionette	INFO	Listening on port 43893
+1612130245045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612130423900	geckodriver	INFO	Listening on 127.0.0.1:45889
+1612130423919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeuwkFa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612130428116	Marionette	INFO	Listening on port 38313
+1612130428181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612130463769	geckodriver	INFO	Listening on 127.0.0.1:52987
+1612130463823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9D6dGT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612130474691	Marionette	INFO	Listening on port 38977
+1612130474979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612130478378	Marionette	INFO	Stopped listening on port 38977
+1612131010164	geckodriver	INFO	Listening on 127.0.0.1:49929
+1612131011136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqXmkqx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612131024584	Marionette	INFO	Listening on port 43135
+1612131024691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612131033264	Marionette	INFO	Stopped listening on port 43135
+1612136486967	geckodriver	INFO	Listening on 127.0.0.1:56469
+1612136487925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile00bjvH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612136503826	Marionette	INFO	Listening on port 43517
+1612136504166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612147296121	geckodriver	INFO	Listening on 127.0.0.1:45019
+1612147297099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIzraUa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612147312349	Marionette	INFO	Listening on port 33029
+1612147312473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612147318334	Marionette	INFO	Stopped listening on port 33029
+1612147450008	geckodriver	INFO	Listening on 127.0.0.1:53795
+1612147450276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAL6CN4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612147456689	Marionette	INFO	Listening on port 45583
+1612147456783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612147460649	Marionette	INFO	Stopped listening on port 45583
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612147650173	geckodriver	INFO	Listening on 127.0.0.1:33581
+1612147650194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewCRLsT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612147655161	Marionette	INFO	Listening on port 36225
+1612147655327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pdet.mte.gov.br/novo-caged, line 286: TypeError: jQuery(...).onmouseover is not a function
+1612147658807	Marionette	INFO	Stopped listening on port 36225
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
