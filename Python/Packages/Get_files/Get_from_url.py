@@ -16,22 +16,32 @@ class Simple_url_method():
           #logging.info('Iniciando download do arquivo')
           #url da página do download  
           r  = requests.get(self.start_url, allow_redirects=True)
-          
+        except Exception as e:
+          print(e)
+          print('erro request')
+        try:  
           #o link muda todo mês; por isso faço get no link toda vez
           data = r.text
           soup = BeautifulSoup(data)
           element = soup.select_one(self.html_path)
           link_download = element['href']
-          print(link_download)
+          print(element)
+        except Exception as e:
+          print(e)
+          print('erro encontrar element')
+        else:
+          print(element)
           #request no link do download
+        try:
           s = requests.get(link_download, allow_redirects=True)
         except Exception as e:
           print(e)
+          print('erro request link download')
           #logging.error('Erro ao fazer o download')
         else:  
           #logging.info('Download executado com sucesso')
           #abre o excel
-          f = open('/home/ds3x/robos-santander/Outputs/'+self.input_file, mode='wb',encoding='utf-8').write(s.content)
+          f = open('/home/ds3x/robos-santander/Outputs/'+self.input_file, mode='wb').write(s.content)
           return f
 
 class Multiple_url_method():
