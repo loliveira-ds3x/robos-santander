@@ -2,7 +2,7 @@ from Packages.Main import GoogleAPI_main
 
 api_type = 'simple_report'
 crawler_name = 'google_analytics_events_clicou'
-VIEW_ID = '236533316'
+VIEW_ID = '156719244'
 info_level = 'basic'
 period = 'day'
 

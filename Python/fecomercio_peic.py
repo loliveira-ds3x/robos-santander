@@ -10,8 +10,8 @@ etl_type = 'excel_to_csv'
 input_file = crawler_name + '.xls'
 input_file_tab1 = 'Série Histórica'
 index_columns = "A,B,C,D,F,G,H,J,K,L,M"  
-column_names = [ 'data','familias_endividadas_abs','familias_contas_em_atraso_abs','familias_sem_condicao_de_pagar_abs','familias_endividadas_perc','familias_contas_em_atraso_perc'
-              ,'familias_sem_condicao_de_pagar_perc','prazo_comprometimento_renda_3_meses','prazo_comprometimento_renda_3_a_6_meses','prazo_comprometimento_renda_6_a_12_meses'
+column_names = [ 'data','familias_endividadas_perc','familias_contas_em_atraso_perc','familias_sem_condicao_de_pagar_perc','familias_endividadas_abs','familias_contas_em_atraso_abs'
+              ,'familias_sem_condicao_de_pagar_abs','prazo_comprometimento_renda_3_meses','prazo_comprometimento_renda_3_a_6_meses','prazo_comprometimento_renda_6_a_12_meses'
               ,'prazo_comprometimento_renda_mais_de_12_meses'
                 ]
 

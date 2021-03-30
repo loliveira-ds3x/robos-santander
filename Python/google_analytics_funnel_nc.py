@@ -2,7 +2,7 @@ from Packages.Main import GoogleAPI_main
 
 api_type = 'multiple_simple_reports'
 crawler_name = 'google_analytics_funnel_nc'
-VIEW_ID = '236533316'
+VIEW_ID = '156719244'
 info_level = 'basic'
 period = 'day'
 
