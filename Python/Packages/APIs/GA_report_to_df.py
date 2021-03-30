@@ -22,6 +22,31 @@ def response2df(report_json=None,VIEW_ID=None, now=None, info_level=None, period
     df['period'] = period
     return df
 
+def Multichannel_funnel_report_to_df(json_data=None,VIEW_ID=None,now=None,info_level=None,period=None):
+    
+    headers = []
+    date = []
+    goal = []
+    assisted_conversions = []
+    
+    for row in json_data['columnHeaders']:
+        headers.append(row['name'])
+        headers = list(map((lambda x: x.split(':', 1)[-1]), headers))
+
+    for lista in json_data['rows']:
+        date.append(lista[0].get('primitiveValue'))
+        goal.append(lista[1].get('primitiveValue'))
+        assisted_conversions.append(lista[2].get('primitiveValue'))
+
+    d = {headers[0]: date, headers[1]: goal,headers[2]: assisted_conversions}
+    df_values = pd.DataFrame(d)
+    df_values['profileId'] = VIEW_ID
+    df_values['uploadtime'] = now
+    df_values['info'] = info_level
+    df_values['period'] = period
+    return df_values
+
+
 def Multiple_response2df(report_json=None,VIEW_ID=None, now=None, info_level=None, period=None,funnel_step=None,description=None):
     report = report_json.get('reports', [])[0] # expected just one report
     # headers

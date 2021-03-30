@@ -1,5 +1,5 @@
-def Join_df(account_infos, wp_infos, profile_infos, report):
-    partial_table = account_infos.join(wp_infos, lsuffix='_account', rsuffix='_wb')
-    partial_table = partial_table.join(profile_infos, lsuffix='_wb', rsuffix='_profile')
-    partial_table = partial_table.join(report,  lsuffix='_profile', rsuffix='_report')
+import pandas as pd
+def Join_df(hierarchy_table, report):
+    partial_table = pd.merge(report, hierarchy_table, left_on='profileId',right_on='profileId',how='inner',suffixes=('_report','_account'))
+
     return partial_table
